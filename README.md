@@ -4,4 +4,4 @@ NPM     : 2106707151
 
 Kelas   : D
 
-Hobi    : Menulis
+Hobi    : Mengobrol
